@@ -2,7 +2,7 @@
 
 NoteSaver is a simple and user-friendly note-taking application built with React. It allows users to create, edit, search, organize, pin, delete, restore, and manage notes efficiently.
 
-![Notes](notessaver.png)
+![Notes](notesaver.png)
 
 ## ✨ Features
 
