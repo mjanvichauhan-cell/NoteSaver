@@ -16,7 +16,7 @@ function NoteEditor({ note, onUpdate, onClose }) {
     setDraft(note);
     setDirty(false);
     setPreview(false);
-  }, [note?.id]);
+  }, [note]);
   if (!note || !draft) {
     return <EmptyNotes />;
   }
